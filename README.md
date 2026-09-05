@@ -8,4 +8,4 @@
 
 ![](https://komarev.com/ghpvc/?username=aawad6&label=Profile%20views&color=0e75b6&style=flat)
 
-🔗 **[Connect with me](https://awadammar.github.io/awadammar/)** — LinkedIn + resume, with QR codes for events.
+🔗 **[Connect with me](https://awadammar.github.io/connect/)**: LinkedIn, resume, and GitHub, with QR codes for events.
